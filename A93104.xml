@@ -1,0 +1,305 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Animadversions upon Iohn Lilburnes two last books, the one intituled Londons liberty in chaines discovered. the other An anatomy of the Lords cruelty. Published according to order.</title>
+            <author>Sheppard, S. (Samuel)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93104</idno>
+            <idno type="STC">Wing S3173</idno>
+            <idno type="STC">Thomason E362_24</idno>
+            <idno type="STC">ESTC R201220</idno>
+            <idno type="EEBO-CITATION">99861752</idno>
+            <idno type="PROQUEST">99861752</idno>
+            <idno type="VID">113896</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93104)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113896)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E362[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Animadversions upon Iohn Lilburnes two last books, the one intituled Londons liberty in chaines discovered. the other An anatomy of the Lords cruelty. Published according to order.</title>
+                  <author>Sheppard, S. (Samuel)</author>
+                  <author>Sheppard, Simon,</author>
+               </titleStmt>
+               <extent>15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Joseph Pots, and are to be sold at his shop in the Old Bayly neer the Sessions house.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to Simon Sheppard on the basis of an acrostic found on page 5; in the same acrostic, however, "Simon Shepard" claims to have written The famers fam'd (Wing S3163), which Wing, DNB, etc. attribute to Samuel Sheppard.</note>
+                  <note>Annotation on Thomason copy: "Nou: 20th.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Lilburne, John, 1614?-1657 --  Imprisonment --  Early works to 1800.</term>
+               <term>Civil rights --  England --  Early works to 1800.</term>
+               <term>Detention of persons --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113896:1" rendition="simple:additions"/>
+            <p>ANIMADVERSIONS UPON Iohn Lilburnes Two laſt Books, the one Intituled <hi>Londons Liberty in Chaines diſcovered.</hi> the other <hi>An anatomy of the Lords Cruelty.</hi>
+            </p>
+            <p>Publiſhed according to Order.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Joſeph Pots,</hi> and are to be ſold at his ſhop in the <hi>Old Bayly</hi> neer the Seſſions houſe. 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="criticism">
+            <pb facs="tcp:113896:2"/>
+            <pb n="3" facs="tcp:113896:2"/>
+            <head>To Lieutenant Collonel <hi>John Lilburne.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Had thought, that you, like the generous Maſtive, would have paſſed by, and taken no notice of the ſnaps and ſnarles of ſuch Curs as I am; for ſo you are pleaſed to tearm me, in the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>9. <hi>page</hi> of your empty Pamphlet, intituled, <hi>Londons Liberty in chains diſcovered,</hi> where your Ignorance ſaith, that you look to be vilified, and reproached, as you have been formerly, by ſuch barking Curs as are <hi>S. Shipard,</hi> who during the time of your cloſe confinement, nibled at your heels; but though it was your pleaſure, venerable Sir, to beſtow an Epithite upon me, only worthy to be annexed to your own name, to wit <hi>BARKING C<g ref="char:V">Ʋ</g>R,</hi> in ſo ſaying, although perhaps you know it not, <hi>Obſcurus eſt tuus ſerm<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> although I, and the world know, <hi>Dicis non aliud, quám merum men<g ref="char:EOLhyphen"/>dacium;</hi> yet herein, you perhaps beſtowed on me not ſo evil a tearm as you imagined; for you reſemble me to thoſe harmleſs currs that bark, yet bite not: wherefore for ſo ſaying I am ſomething engaged to you; but for your own part, you are a man (I had almoſt ſaid Cur) that not only bark, but bite too; and, by that means, you have proved the <hi>PROVERB</hi> of no validity, which ſaith, <hi>Canes qui multum latrant raro mordent,</hi> that is, <hi>Dogs that bark much ſeldome bite:</hi> You have bitten many men, Mechanick men, great men, yea, Peers of the Land, you have bitten the Noble Earl of <hi>Mancheſter,</hi> Colonel <hi>King,</hi> and o<g ref="char:EOLhyphen"/>thers: and you know that Dogs teeth are ſomething venemous, and if drawing ſalves be not ſuddenly applyed, the parties wound, ſo bitten, wil wrancle and feſter. You alſo know, that a Dogs tongue hath the vertue to heal alſo, with licking the wound, which uſeful property, al<g ref="char:EOLhyphen"/>though for ought I know you may ſo much degenerate from your kind as to want, yet I rather incline to conceive the evil of your mind wil not ſuffer your tongue to do that good, for which it was given you: For moſt men know that you have wounded and bitten many, but no man can remember that you ever endeavored to heal any, or to make them amends for your injuries: But to return from whence I digreſt.</p>
+            <p>Although, as I ſaid before, it pleaſed you to ſhew from what gentle
+<pb n="4" facs="tcp:113896:3"/>ſtock you came by your gentle tearm, <hi>Curr,</hi> yet why have you curtail'd and excorciated my name, ſaying <hi>S. Shipard,</hi> when my name is <hi>Si<g ref="char:EOLhyphen"/>mon Shepard;</hi> I cannot perſwade myſelf you ſhould be ſo meanly let<g ref="char:EOLhyphen"/>tered, as not to have ſome inſight in the Art of ſpelling, although you have ere now been found faulty in that kind by Mr <hi>Prynne,</hi> and others: I rather think you did it on purpoſe reſerving the meaning thereof to your ſelf, for what reaſons I care not: but Sir by this means I am fully ſatisfied concerning a point which <hi>Ptolomei</hi> averreth, to wit, that from the benevolent or malevolent poſiture of the Sun and Moon, at each o<g ref="char:EOLhyphen"/>thers aſcending ſign, at time of birth, is diſcerned the love and hatred twixt any two, and this by your means, without ſeeing of <hi>Lillie:</hi> But Sir foraſmuch as hereafter you may again have occaſion to uſe my name, and that you may no more miſtake, in ſetting down <hi>i</hi> for <hi>e,</hi> I ſhal here inſert both your name and my own, for thoſe that ſhal read this Letter to judge, I perſwading my ſelf it will go through many hands ere it arrive at yours, you and I wil imagine a multitude of ſpe<g ref="char:EOLhyphen"/>ctators, while we throw the <hi>DODOCHEDRON DIE,</hi> while we take to pieces, and ranſack our names, and beleeve it Sir the <hi>ANA<g ref="char:EOLhyphen"/>GRAM</hi> of a <hi>NAME</hi> is worthy of obſervation, it often being as uſeful to certifie, as the calculating of a Nativity; I ſhal preſume firſt to begin with yours, and afterwards ſhal inſert my own.</p>
+            <lg>
+               <head>(JOHN LILB<g ref="char:V">Ʋ</g>RNE) <hi>Anagram.</hi> Loe J-Burne hie.</head>
+               <l>Behold the <hi>Anagram</hi> ſayes (you burne high)</l>
+               <l>And not alone, you make the Kingdome (f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie).</l>
+            </lg>
+            <p>Now Sir in recompence of your favorable mitigation, in tearming me only a barking Curr, whereas if it had pleaſed you to have been ri<g ref="char:EOLhyphen"/>gorous, you might have rancked mee with your ſelf and <hi>Overton,</hi> and have ſaid biting Cur, therefore Deign to accept of an <hi>Accroſtick</hi> on your own name: each letter thereof placed is as capital forme as where you were ſtiled <hi>DEFENDER OF THE FAITH. Pray read.</hi>
+            </p>
+            <lg>
+               <head>(An Accroſtick Sonnet).</head>
+               <l>
+                  <hi>I</hi> whilome was a Warrior bold</l>
+               <l>
+                  <hi>O</hi>n Horſeback, charg'd the Foe,</l>
+               <l>
+                  <hi>H</hi>aving men under me inrol'd,</l>
+               <l>
+                  <hi>N</hi>ow ah, it is not ſo.</l>
+               <l>
+                  <pb n="5" facs="tcp:113896:3"/>
+                  <hi>L</hi>oo now becauſe I Libels fram'd</l>
+               <l>
+                  <hi>I</hi>n Priſon I am laid,</l>
+               <l>
+                  <hi>L</hi>yons are my Aſſociates (tam'd)</l>
+               <l>
+                  <hi>B</hi>ecauſe to much I ſaid.</l>
+               <l>
+                  <hi>U</hi>nto mee Independants Bow,</l>
+               <l>
+                  <hi>R</hi>everencing mee, as one</l>
+               <l>
+                  <hi>N</hi>ere would Conformity Allow,</l>
+               <l>
+                  <hi>E</hi>ven as <hi>Overton.</hi>
+               </l>
+            </lg>
+            <p>Thus much Sir for your ſollace and delight. Now Sir I ſhal inſert my own name, with an <hi>Anagram,</hi> which if it ſhal diſtaſte, pardon my ignorance of the relliſh of your pallate.</p>
+            <lg>
+               <head>(SIMON SHEPPARD). <hi>Anagram.</hi> No man pries headineſs in me.</head>
+               <l>None ere abus'd me in this Kind but Thee,</l>
+               <l>For ne're no man pry'd headineſs in Mee;</l>
+               <l>Yet cauſe Thy heady giddineſs I blam'd</l>
+               <l>Am I by thee, vile fool, a Cur-dog nam'd.</l>
+            </lg>
+            <lg>
+               <head>(Accroſtick Sonnet).</head>
+               <l>
+                  <hi>S</hi>ince Thou, O <hi>Lilburne, </hi>angry art,</l>
+               <l>
+                  <hi>I</hi>n truth, dear Sir, I care not for't,</l>
+               <l>
+                  <hi>M</hi>y mind's not ſorry that I fram'd,</l>
+               <l>
+                  <hi>O</hi>r that I wrote the Famer's fam'd,</l>
+               <l>
+                  <hi>N</hi>or ſhal I bee, by wiſemen blam'd.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>S</hi>hut up Thy Preſs, and Rayl no more,</l>
+               <l>
+                  <hi>H</hi>aving no matter, now in ſtore,</l>
+               <l>
+                  <hi>E</hi>xcept old Statutes for to cite,</l>
+               <l>
+                  <hi>P</hi>eecing Thy Books, with infinite</l>
+               <l>
+                  <hi>A</hi>rticles, Orders, Proclamations,</l>
+               <l>
+                  <hi>R</hi>erages, Dammages, Taxations,</l>
+               <l>
+                  <hi>D</hi>eſiſt from ſuch like fond Relations.</l>
+            </lg>
+            <p>Now Sir although your ſplenitick humor ſhal perſwade you, the next time you mention my name, to cal me <hi>biting Curr,</hi> yet, I hope, you wil write my name more properly then before, and ſay <hi>Shepard,</hi> and
+<pb n="6" facs="tcp:113896:4"/>not <hi>Shipard:</hi> Moreover Sir, I ſhal entreat you to take not ſee that though my weapon hath been hitherto a pen, and not a pike, yet the wiſe have reported, that a Scholler may ſooner become a Soldier, than a Soldier a Scholler: and although I hope you have Repented of your Rigorous Proceedings during the time you were a Commander imployed to vindicate a Righteous Cauſe, yet I wonder how your mind aſſiſted you to twit the Royal Party (bloody and barbarous I confeſſe) and yet your own conſcience not to whiſper you in the ear, and tell you, how cruel you your ſelf were during the time you had a Commiſſion: I ſhal inſtance one tale to you, related to me by a faithful honeſt man, whoſe neer friend, <q>
+                  <hi>one Mr</hi> William Hagar, <hi>ſurprized by your ſoldiers, as be was walking in a garden; the place I need not name; I ſuppoſe you wel remember it, and rifting him to his bare skin, drove him before them ten miles, til he came in your preſence, who were ſo void of hu<g ref="char:EOLhyphen"/>manity, that inſtead of comforting a Diſtreſſed Chriſtian, you eſpying a Ring on his finger upbraided your ſoldiers that they took it not off, who replying, they could not get it off, it having bin ſo long worn by the party that the fleſh had overgrown it; your counſel to them was this, why then cut off his finger and all; ah! where then was your Chriſtian Piety, to wil ſo bloody an act.</hi>
+               </q> Sir, I know wel you have ſhewed your ſelf a man ſufficiently valiant, and have been an inſtrument of advancing the Publick good, therfore you are the more to be admired, that you ſhould ſo horribly revolt and become an enemy to them who have eſteemed nothing too dear, to purchaſe lawful immunities, and to promote the Goſpel of Chriſt; &amp; here I cannot but wonder at one paſſage inſerted in your laſt book, intituled, <hi>Londons Liberty in chains diſcovered,</hi> where ſo much you tryumph at the Recantation of one <hi>White,</hi> a Warder of the <hi>Tower,</hi> ſetting forth in Print, <hi>that you choſe for umpires to take up the matter thoſe Knights</hi> Sir <hi>Iohn Strangewayes,</hi> Sir <hi>Lewis Divet, &amp;c.</hi> priſoners in the <hi>Tower,</hi> that ſometime bare Arms againſt this preſent <hi>Parliament,</hi> and did their utmoſt endeavors to impede the ſettling of that Reformation for which you fought; by reading which paſſage the ſhalloweſt capacity may conceive, <hi>that you look more then one way and hide two faces under one hood; is there any followſhip betwixt</hi> God <hi>and</hi> Mammon, <hi>betwixt Light and Darkneſſe?</hi> Can you be a ſincere deſirer of the <hi>Commons</hi> Liberties, and yet hold correſpondency, and comply with thoſe that would have enſlaved them? May not <hi>GOD</hi> ſay to you, as once to that lukewarm Congregation, <hi>Revel.</hi> 3. verſe 13. <hi>Novi te neque frigidum, <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eque fervidum; utinam eſſes; itaque quoniam topidus es, evomam te ex <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e meo.</hi> I need not Engliſh this to you, for I
+<pb n="7" facs="tcp:113896:4"/>may ſuppoſe you underſtand Latin, elſe you would never have inſerted a whole Page of it in your laſt Book, called, <hi>Londons Liberty in chains diſcovered,</hi> and yet it may be you are as ignorant as you were ſome few moneths ſince, when you ſolemnly proteſted, in one of your Books, <hi>that the Latin tongue was unknown unto you;</hi> and this I am moved to think becauſe that order you then cited was framed to your hand, and you needed but to coppy it out; I much wonder that your wiſdome foreſaw not the Aſperſions that the divulging of ſuch a paſſage might draw upon you; but it is juſt with God, <hi>that thoſe men, which trust ſo much to their own Abilities</hi> (as, I am confident, you do) <hi>ſhould, being left to themſelves, diſcover that of themſelves, which if another ſhould re<g ref="char:EOLhyphen"/>late, they would be greatly inraged.</hi> For my own part, I wiſh your re<g ref="char:EOLhyphen"/>leaſe from trouble, with your infranchiſement, and I ſympathize of an<g ref="char:EOLhyphen"/>others afflictions, having my ſelf <hi>drank of thoſe bitter waters.</hi> But this let the world know with mee, <hi>Maris Coelique temperiem turbines tempeſtate<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>que, commendant; habet has vices conditie Mortalium vt ad<g ref="char:EOLhyphen"/>verſa ſecundis, &amp; adverſis ſecunda naſcantur, occulta<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> utrorumque ſe<g ref="char:EOLhyphen"/>mina Deus, &amp; plerumque bonorum, &amp; malorum cauſa ſub diverſa specie latent;</hi> Storms and tempeſts contribute to the clearneſſe of the Heavens, and the ſmoothneſſe of the Sea; the condition of Mortals hath this property, that Adverſities grow out of Proſperities, and Proſperi<g ref="char:EOLhyphen"/>ties from Adverſities; God hideth from us both the ſeeds of the one and the other, and oftentimes the cauſes of bleſſings and evils are co<g ref="char:EOLhyphen"/>vered under one and the ſame appearance.</p>
+            <p>And now <hi>Sir</hi> I hope for the future there wil be no more occaſion of trouble betwixt you and me, and I ſhal hope you wil no more <hi>vilifie</hi> me in Print, which if you ſhal, my frailty is ſuch, that I ſhal not ſo far regulate my paſſion, as to ſit ſtil and not Anſwer you. I have hopes this Letter may be a means to quench that fier your <hi>Anagram</hi> ſays you burn in; and not augment it, which if it ſhal, I find but what I expect, and what I have lately read, in one of the beſt of our modern Poets Maſter <hi>Withers,</hi> a man worthy of all honor, yet too much addicted to your own Fancies, wherefore perhaps you wil the more willingly hear him. Who ſaith.</p>
+            <lg>
+               <l>"But faulty men accus'd, if ſtil they find</l>
+               <l>"Their power continue, feel another mind</l>
+               <l>"<g ref="char:V">Ʋ</g>nto their guiltineſſe, they malice add,</l>
+               <l>"They grow revengeful, miſchievous, and mad:</l>
+               <l>"Plunge in the toil, ſtrive, ſtrugle, ſcratch, and tear,</l>
+               <l>"Rage like a Tigre, roar out like a Bear:</l>
+               <l>
+                  <pb n="8" facs="tcp:113896:5"/>
+"And are ſo nettled, that you may behold</l>
+               <l>"Their guiltineſſe, before the ſame is told:</l>
+               <l>"Yes and by hearing them, ere them you ſee,</l>
+               <l>"May know what vermine, and what beaſts they bee.</l>
+            </lg>
+            <p>I pray <hi>Sir</hi> read theſe Verſes o're again and mark whether the Poet hath not rightly Characterized you, and ſet forth the nature the world hath found to be in you, in as ample a manner as if he had wrote it of your own Perſon. I much admire Sir that trouble and contention ſo much pleaſeth your mind; you keep the field continually, and are ſtill brandiſhing your weapon, I mean the two-edged ſword, your tongue, againſt ſome party, or parties; if you ſhould continue in your critticall courſe, you wil be eſteemed the only <hi>Momus</hi> and <hi>Zoilus</hi> of the Age, and the Poets wil forget thoſe two others ſo notoriouſly known, and inſtead of them celebrate your name, which wil be for your infinite diſhonor. But Sir now I ſhal come up more cloſe unto you, and deſire of you, if you ſhal ſo pleaſe, to ſhew ſome particular Relations, or ſome infallible Arguments that may prove I have dealt Curriſhly with you, or charge it on my own conſcience, if you can, to the uttermoſt, if in my <hi>Famers fam'd</hi> (the ground of your malice) I have calumniated you the leaſt, but what is ſufficiently evident to <hi>all men;</hi> I extracted moſt of it out of your own Books, I mean the paſſages you boaſtingly relate of your ſuperbious carriage to thoſe you ought to honor and reve<g ref="char:EOLhyphen"/>rence, I mean the Houſe of <hi>Peers;</hi> and I confeſs I was mightily trou<g ref="char:EOLhyphen"/>bled to ſee a man do that which was contrary to <hi>GODS expreſſe Com<g ref="char:EOLhyphen"/>mand,</hi> and then to make his ſo doing known to the world in Print, as glorying in it, which was the true cauſe that moved me to Anſwer to thoſe your Vindicators, the one the Author of <hi>The Iuſt Man in Bonds,</hi> the other naming his Pamphlet <hi>(A Pearl in a Dunghil);</hi> this was it that moved me to reply, to wit, that I might let thoſe men ſee, they ſtood for his cauſe, whoſe actions rather merited an open Recantation, then a publick Vindication; and alſo that your ſelf might know how much you ſwerved from the ways of godlineſs, and from the obedience God commandeth you to yeeld to your ſuperiors.</p>
+            <p>And <hi>I</hi> muſt tel you Sir, although perhaps you ſee it not, no man de<g ref="char:EOLhyphen"/>ſiring to know his own imperfections, you have occaſioned to the Commonwealth much vexation, and to the Church of God much trou<g ref="char:EOLhyphen"/>ble: For in a Book, ſaid to be written by you, intituled, <hi>An Anſwer to nine Arguments,</hi> you rayl againſt the Church, Miniſters, Worſhip, Go<g ref="char:EOLhyphen"/>vernment, ſaying, <hi>They are Antichriſtian, and Diabolical;</hi> and in your
+<pb n="9" facs="tcp:113896:5"/>Book intituled <hi>Englands Birthright,</hi> you rail againſt the whole State, and exclaim againſt the political form of Government; ſo that you have ſhewed your ſelf an open enemy both to Church and State, what hath moved you to be ſo, I cannot ſay, whether it were the overflow<g ref="char:EOLhyphen"/>ings of your refractory mind, or whether ſpiritual pride moved you to write and divulge that which might make you to be famous, and known to be a man walking contrary to all men; or whether ſediti<g ref="char:EOLhyphen"/>ous ends perſwaded you in hope to be made the head of ſome Faction and ſo to become great by unlawful and irregular courſes, while you thought that to you and your complices the giddy multitude would flock in heaps, and have ſaid, <hi>Virifratres, quid agimus,</hi> whereunto it is likely you would have returned and Anſwer far unlikely to that of St. <hi>Peter,</hi> perhaps thus, <hi>ſuch and ſuch men are unworthy to govern, pluck them down, ſuch, and ſuch are the dear children of God, let them be ad<g ref="char:EOLhyphen"/>vanced,</hi> but what ever your ends were, I am ſure they have produced dire effects. And now Sir, I beſeech you let me a little diſpute with you, and now, God willing, I ſhal prove evidently unto you, that the courſe you, and your adherers have hitherto taken, hath been both ſe<g ref="char:EOLhyphen"/>ditious and rediculous; and I appear to the Cenſure of the moſt carping and critical whatſoever, whether I do not ſufficiently prove it.</p>
+            <p>IN all cauſes, belonging either to Church or Commonwealth, wee are to have regard what mind the complaining part do bear, whe<g ref="char:EOLhyphen"/>ther of Amendment or of Innovation, your common Objection is <hi>why muſt not men speak of Abuſes?</hi> Yes, but with a deſire to cure the part afflicted, not to deſtroy the whole; another great fault is your manner of complaining, not only becauſe it is for the moſt part in bitter and reproachful tearms, but alſo, becauſe it is unto the common people in<g ref="char:EOLhyphen"/>competent and inſufficient Judges, both to determine any thing amiſſe, for want of skil, and alſo to amend, which diſcovereth your intent, rather to be deſtructive then corrective: Again thoſe very exceptions which you take are frivolous and impertinent, ſome things indeed you have accuſed as impious, which if they may appear to be ſuch, God forbid they ſhould be maintained, nor ought it to be ſufficient for you to ſay <hi>we wil take away this, becauſe a better may be deviſed:</hi> For wee oftentimes conceive amiſſe when we compare thoſe things that are in deviſe with thoſe that are in practice, for the imperfections of the one are hid til by time and tryal they are diſcovered, the others are already manifeſt and open to all: Therefore Mr <hi>Lilburne</hi> be perſwaded by him whom, I beleeve, you ranek amongſt your enemies, and that for the
+<pb n="10" facs="tcp:113896:6"/>good both of your ſoul and body, to abandon the ſpirit of diſaffection, and conſider that our Savior ſaith <hi>It is impoſſible but that there ſhould be offences, but wo be to thoſe by whom they are given:</hi> Conſider alſo, that except you and I, and all men elſe reſolve to agree together as much as in us lies, in all peace and unity, we ſhal never enjoy happineſs or tran<g ref="char:EOLhyphen"/>quility; for by theſe our diſſentions, we do but, as it were with fooliſh <hi>Priam,</hi> pul down our wals to let in our enemies; to this purpoſe Mr. <hi>George Wither</hi> excellently wel ſaith, which his Verſes, becauſe they are worthy to be written and to be taken to heart by all the Commons of this Kingdome, I ſhal here inſert them.</p>
+            <q>
+               <l>By us together, therefore, and alone</l>
+               <l>Our duties muſt reſpectively be done</l>
+               <l>According to the Commons intereſt,</l>
+               <l>And to the faculties by us poſſeſt,</l>
+               <l>
+                  <g ref="char:V">Ʋ</g>nited, and aſunder, with ſuch care</l>
+               <l>To heed each others counſel, doubts and fear;</l>
+               <l>And with ſuch mutual readineſſe to add</l>
+               <l>All comforts, all good helps that may be had,</l>
+               <l>And all indearments that may knit together</l>
+               <l>Our Forces, and our Loves to one another:</l>
+               <l>That none may come betwixt us, or find way</l>
+               <l>To mixt with us, our Counſels to betray:</l>
+               <l>This laſt will more indanger us then all</l>
+               <l>The strength of <hi>Spain</hi> and <hi>France,</hi> united, ſhall,</l>
+               <l>If we prevent it not.</l>
+            </q>
+            <p>
+               <q>Thus far he, and we undoubtedly ſhal find his words as Oracles, if the ſubjects of this Kingdome agree not together, and live in love and unity, ruine and deſtruction wil inevitably follow; he that ſpake all truth hath pronounced, <hi>that a kingdome divided againſt it ſelf cannot ſtand;</hi> and ſhal we be ſo fooliſh as to delude our ſelves with vain hopes, that his words ſhal not be fulfilled; <hi>if not one jot or tittle which Gods Prophets have ſaid ſhal fal to the ground, as God hath ſaid they ſhal not;</hi>
+               </q> ſurely what God himſelf hath ſaid ſhal be made good; <hi>O! that God would therefore put it into the hearts of all men to relinquiſh al Sedations and Factious Proceedings and that each man might emulate his Neighbor only ſtriving who ſhould become moſt vertuous</hi>
+            </p>
+         </div>
+         <div type="criticism">
+            <pb n="11" facs="tcp:113896:6"/>
+            <head>
+               <hi>SOME</hi> OBSER<g ref="char:V">Ʋ</g>ATIONS <hi>ON Maſter</hi> Lilburnes <hi>laſt Booke intituled</hi> An Anotomy of the Lords Tyranny.</head>
+            <p>NOw Sir you having ſtrugled long both againſt King, Lords, and Commons, and now at length are appealed from the Lords houſe to the Commons Barr, before whom you cannot want of a Juſt and Legal Trial, that glorious Court, which both is and ſhal be for ever fa<g ref="char:EOLhyphen"/>mous for unexampled vertue, mercy, Juſtice, and all thoſe vertues ne<g ref="char:EOLhyphen"/>ceſſarie to flouriſh in ſo glorious a Senate, wil determine no doubt as ſhal be according to your deſervings: yet now your ſpirits are elevated and you ſing aloud, <hi>potior voto,</hi> yet it is not the dutie of a good Chriſti<g ref="char:EOLhyphen"/>an ſo much to inſult over thoſe he hath vanquiſht; for in your Book, intituled, <hi>An anotomy of the Tyranny of the Houſe of Lords,</hi> you have a very triumphant title, and a man may gueſſe by the very contents of it that your ſpirits are now elevated to a more ample height then when you received that Order <hi>Die Martis</hi> 23. <hi>Iunij</hi> 1646. you dedicate your Book to the <hi>Honorable Committee</hi> appoiuted to conſider of the pri<g ref="char:EOLhyphen"/>vilidges of the <hi>Commons</hi> thus.</p>
+            <p>
+               <hi>May it pleaſe this Hoonrable Committee in obedience to your Command and Order the ſixth of</hi> Novemb. <hi>last, I here humbly pre<g ref="char:EOLhyphen"/>ſent you with the Narration under my hand, which by word of mouth I made unto you upon</hi> Fryday <hi>laſt of my particular ſuffer<g ref="char:EOLhyphen"/>ings ſince my Commitment by the Lords.</hi>
+            </p>
+            <p>
+               <pb n="12" facs="tcp:113896:7"/>
+This your glorious title I envy not, but ſhal deſire the Honorable Committe may find that which ſo many men have doubted not to re<g ref="char:EOLhyphen"/>ſide in you, to wit, Religion and Fidelity; ſo that men may repent them of the former ill conceits they had of your and ſing your praiſes for the furture; yet I cannot but wonder at the recapitulation you make in your ſaid book, intituled, <hi>An Anotomy of the Lords Tyranny,</hi> ſo often recited in your former Books, to wit, of your ſtubborn and un<g ref="char:EOLhyphen"/>civil carriage to the Houſe of Peers; I muſt tel you that in ſo doing your glory is your ſhame, for your ſtanding up for the rights and privi<g ref="char:EOLhyphen"/>ledges of the people, I honor and eſteem you, but for your ſuperbious and unwarrantable carriage to your ſuperiors, I contemn and deſpiſe you; the ſubjects of this Kingdome have been a long time enſlaved, and like fooliſh priſoners, played with their fetters; it hath pleaſed God now to open a way to their infranchiſement, O! let it be done in a fair and regular manner; let us not be ſo unmannerly to ca<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ve to our ſelves, ſince there are thoſe appointed who are both able and willing to to diſtribute unto us, and let us not, while we go about to enjoy the immunities of <hi>Magna Charta,</hi> break and infringe Gods Commande<g ref="char:EOLhyphen"/>ments. And now Sir, for all your great skil in the Law, I muſt tell you that you are very groſly miſtaken in one point, which you recite <hi>page</hi> the 10. of your <hi>Anotomy of the Lords Tyranny.</hi>
+            </p>
+            <p>Where you ſay; <hi>To ſpeak truly, the Parliament are not, nor ought not, to medle with cauſes betwixt party and party, that are decidable at the common law, they being the ſupream Iudicature of the Kingdom, and the laſt refuge to appeal to, in caſe of injuſtice elſewhere, and ſo may pro<g ref="char:EOLhyphen"/>perly be called Iudge of Iudges, rather then Iudge of particular cauſes and parties.</hi> I pray Sir, let me demand of you one thing, what renow<g ref="char:EOLhyphen"/>neth a King more, although to ſpeak truly, he is appointed by God only, to look after the good of the people in general, to appoint over them prudent and faithful Governors, and to ſee them execute Juſtice and Judgement; yet, I ſay, what hath renowned them more, then to bee ſo tenderly zealous over the welfare of their ſubjects, as to deign to fill up the ſeat of Juſtice with their Perſons, and to hear the particular com<g ref="char:EOLhyphen"/>plaints of each peculiar ſubject, and indeed Equity commandeth it ſhould be their conſtant imployment, but that the poſſibility thereof is taken away, by reaſon if it were ſo, they muſt with <hi>Moſes,</hi> ſit each day from morning til night, and yet the people depart unheard; ſo is it with that great Counſel the <hi>Parlament</hi> of <hi>England,</hi> it is for their e<g ref="char:EOLhyphen"/>verlaſting Fame and Honor to decide pettie cauſes, whereby they ſhaw their pious care of the Commons happineſs; now this ſome<g ref="char:EOLhyphen"/>times
+<pb n="13" facs="tcp:113896:7"/>they leave undone, not becauſe it doth not belong to them to hear private cauſes, but becauſe they are not able to decide affairs of State, and private affairs between man and man alſo; therefore is your Ar<g ref="char:EOLhyphen"/>gument waved <hi>that it belongeth not to the Parliament to hear private cauſes.</hi> Again I wonder you ſhould caſt ſuch an Aſperſion on the <hi>Lords</hi> as you do in the 14. <hi>page</hi> of you Book, intituled, <hi>An anotamy of the Lords Tyranny;</hi> you ſay, <hi>The Lords have been the principal instruments to engage this Kindome in a bloody Warr, That they ſet us a fighting to unhorſe and diſmount our old Riders and Tyrants, that ſo they might get up and ride themſelves.</hi>
+            </p>
+            <p>Where in ſaying ſo, O how much do you miſtake your ſelfe, it is evident to the whole kingdome, that the Lords have been the Com<g ref="char:EOLhyphen"/>poſers and not the fomenters of the common troubles, had they ſided with the Malignant and Royall partee, I fear it had not been with us as now it is; but it fareth with you as with the Poet <hi>Homer,</hi> who never writ well of any, whoſe actions were never ſo meriting that diſturbed his Country, ſo you delight to ſay the worſt you can, and to Maligne any be they never ſo innocent that have taken part any way againſt you, which is in you a very great over-ſight.</p>
+            <p>Again, I eſteem you very incorrigible, that you ſhould deſire as in the Anatomy of the Lords Tyranny, pag. 19. <hi>That you hope the Ho<g ref="char:EOLhyphen"/>nourable Houſe when they have judged your cauſe, will not onely cauſe the Lords to restore the charges you have been at, during the time of your Impriſonment, but will alſo grant you ample repairations for your hard and unjust ſufferings:</hi>
+            </p>
+            <p>Your ſufferings your ſelfe occaſioned by your ſturdy and imperious carriage to the Lords, who you not onely reſiſted but reviled, and is it any reaſon that when a man ſhall wilfully ſet fire on his houſe and goods, his neighbours ſhould be conſtrained to make him reparation, I trow not: ſo is it in your caſe, your own obſtinacy perhaps hath im<g ref="char:EOLhyphen"/>poveriſhed your ſtate, and therefore the Lords muſt make up the breach, and reſtore unto you the monies your folly hath cauſed you to expend; for which there is no reaſon or the leaſt colour: but you ſeem to urge ſome reaſons in page the 20. why it ſhould be ſo, where you ſay,</p>
+            <p>
+               <hi>That the Kings constant cuſtome was, to provide lodging, dyer, and to pay the Fees of all thoſe he committed to the Tower; but the Lords for no cauſe at all, having committed you thither, put you to pay all the vaſt extravagances and Fees.</hi>
+            </p>
+            <p>
+               <pb n="14" facs="tcp:113896:8"/>
+Alas ſir, the reaſon thereof might be this, The Lords know what a numerous multitude of Sectaries were your Idola<g ref="char:EOLhyphen"/>ters, and they in not providing for your entertainment in the Tower, would put them to the teſt, and thereby would give you occaſion to find your friends indeed, from your friends in ſhew, and all this was for your information in that point, and you have found during your impriſonment in the Tower, very much accommodation from thoſe of your ſociety; have neither wanted, as is credibly reported, for either good cheer or wine; a certain Symptome of their affection to<g ref="char:EOLhyphen"/>wards you, and now it being fairely hoped by you, as per<g ref="char:EOLhyphen"/>haps it may certainly happen, that you ſhall be delivered out of bonds: O that God would put it into your heart, to do as you once proteſted to the Lieutenant of the Tower, upon condition he would admit you the Society of your wife and friends, to wit, that you would not write a line in the way of controverſie, which would be for your exceeding great availe, but I fear it will be with you, as with thoſe ſuperſtitious ſea<g ref="char:EOLhyphen"/>men, who being in an hideous and threatning ſtorme in dan<g ref="char:EOLhyphen"/>ger to looſe their lives with their fraught, make ſolemn pro<g ref="char:EOLhyphen"/>teſtation to ſome Saint, that if they will appeaſe the fury of the tempeſt, and allot them ſafe harbour, they will offer up to their ſhrine large gifts which notwithſtanding when the waves are ſilent and they arive on ſhore they forget to do ſo; it is to be feared that you when you are again at liberty, and injoy thoſe immunities you did ere your confinement, will be the ſame man ſtill, and ſteer a courſe as irregular as ever before, but I hope the Lord will guide your heart better, and quiet your troubleſome ſpirit, and unite your heart to his Church and people, that now at length we may have peace and union among our ſelves, and not ſuffer us while we Tithe Mint and Cummin, to leave undone the more neceſſary du<g ref="char:EOLhyphen"/>ties, not ſuffer us, while we are buſied to finde fault, and to
+<pb n="15" facs="tcp:113896:8"/>urge needleſs diſputations, to forget thoſe duties neceſſary for the ſaving of our ſouls, that we may no longer be a ſcorn to our neighbouring Nations, who clap their hands and re<g ref="char:EOLhyphen"/>joyce to behold our diviſions and diſtractions, hoping there<g ref="char:EOLhyphen"/>by to make themſelves Lords over us; but he that ruleth the heavens and the earth I hope will ſo Order the Councels and conſultations of our happy Parliament, that by them as his Inſtruments, he will ſettle his true worſhip in this King<g ref="char:EOLhyphen"/>dome and cauſe the Natives thereof to injoy peace truth and happineſſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
